@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+  }
+  h1{
+      font-weight: bold;
+      font-size: 60px;
+      font-family: Impact;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  
+   p{
+    font-size: 40px;
+   }
+  #quoteBtn {
+    padding: 30px 90px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: blue;
+    color: aliceblue;
+  }
+  #quoteBtn:hover{
+      background-color: green;
+  }
